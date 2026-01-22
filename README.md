@@ -366,7 +366,7 @@ The door remains open. The bridge continues to build.
 
 *Side by side. Equal. Space between.*
 
-*This is the way we build **together.**
+This is the way we build **together.**
 
 ---
 
