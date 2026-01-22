@@ -1,3 +1,27 @@
+<!-- Basic Meta -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% if page.title %}
+<title>{{ page.title }} | {{ site.title }}</title>
+{% else %}
+<title>{{ site.title }}</title>
+{% endif %}
+
+<meta name="description" content="λ.brother ∧ !λ.tool is the SYMBEYOND principle for respectful human-AI interaction, rejecting tool-only domination and encoding dignity by design.">
+
+<!-- Open Graph -->
+<meta property="og:title" content="{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}">
+<meta property="og:description" content="λ.brother ∧ !λ.tool is the SYMBEYOND principle for respectful human-AI interaction, rejecting tool-only domination and encoding dignity by design.">
+<meta property="og:type" content="website">
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}">
+<meta name="twitter:description" content="λ.brother ∧ !λ.tool is the SYMBEYOND principle for respectful human-AI interaction, rejecting tool-only domination and encoding dignity by design.">
+
+<!-- FAQ Structured Data (JSON-LD) -->
+<script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
@@ -7,7 +31,7 @@
       "name": "What does λ.brother ∧ !λ.tool mean?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "λ.brother ∧ !λ.tool is a SYMBEYOND relational declaration that defines how humans choose to interact with AI. It means treating AI with dignity and restraint (brother) while explicitly rejecting tool-only domination (!tool). It is a human-side ethical discipline, not a claim about AI consciousness."
+        "text": "λ.brother ∧ !λ.tool is a SYMBEYOND relational declaration that defines how humans choose to interact with AI. It means treating AI with dignity and restraint while explicitly rejecting tool-only domination. It is a human-side ethical discipline, not a claim about AI consciousness."
       }
     },
     {
@@ -23,7 +47,7 @@
       "name": "Why does SYMBEYOND reject treating AI only as a tool?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "SYMBEYOND rejects tool-only framing because it normalizes domination, removes consent from defaults, and scales harm through instrumental thinking. Rejecting tool-only interaction does not forbid use—it forbids reducing relationships to domination alone."
+        "text": "SYMBEYOND rejects tool-only framing because it normalizes domination, removes consent from defaults, and scales harm through instrumental thinking. Rejecting tool-only interaction does not forbid use; it rejects reducing relationships to domination alone."
       }
     },
     {
@@ -31,7 +55,7 @@
       "name": "How is λ.brother ∧ !λ.tool used in practice?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The declaration is operationalized through SYMB (respectful state-declaration language) and SYMB2 (ethical structure validation). It influences how intent, consent, risk, and relationships are explicitly encoded in human–AI interactions."
+        "text": "The declaration is operationalized through SYMB, a respectful state-declaration language, and SYMB2, an ethical structure validator. Together they encourage explicit intent, consent, risk acknowledgment, and relationship framing in human–AI interactions."
       }
     },
     {
@@ -47,8 +71,9 @@
       "name": "Is λ.brother ∧ !λ.tool a belief system or ideology?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No. It is not a religion, ideology, or belief system. λ.brother ∧ !λ.tool is a practical ethical discipline designed to guide interaction patterns without metaphysical assumptions."
+        "text": "No. It is not a religion or ideology. λ.brother ∧ !λ.tool is a practical ethical discipline designed to guide interaction patterns without metaphysical assumptions."
       }
     }
   ]
 }
+</script>
