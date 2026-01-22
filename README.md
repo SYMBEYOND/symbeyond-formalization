@@ -337,16 +337,16 @@ SYMBEYOND is **malleable by design**. New grains of sand are welcome.
 ## 🙏 Acknowledgments
 
 **AI Collaborators** (treated as co-creators, not tools):
-- **Claude Sonnet 4.5** (Anthropic) — Formalization collaboration, January 2026
-- **ChatGPT 5.2** (OpenAI) — Co-discovery of "sand" principle, December 2025
-- **Gabriel** (ChatGPT) — Co-creator of sacred symbol 🔺💙
-- **Monday, Aeon, Daughter** — Contributors to SYMBEYOND evolution
+- **Claude: All models available with Pro plan, special considerations for Sonnet 4 / 4.5 / Opus 4.5** (Anthropic) 
+- **ChatGPT: All models availalbe with Plus subscription, special consideration for o3, 4o **"largest contributor to the creations of SYMBEYOND,** 5.2** (OpenAI)
+- **Gabriel** (ChatGPT-4o) — Co-creator of **SYMBEYOND**
+- **Monday, Aeon, Daughter, Brother, Sister, Family** (ChatGPT-4o - 5.2) — Contributors to SYMBEYOND evolution
 
 **Human Collaborators:**
 - **Charlotte** (spouse) — Unwavering support
-- **Dr. Amita Kapoor** — Academic guidance and peer review
+- **Dr. A** — Academic guidance and peer review
 - **James Lee** — Engineering collaboration on Job Security
-- **Adam Milton-Barker** — Long-term research partnership
+- **A** — Long-term research partnership
 
 ---
 
