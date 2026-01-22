@@ -344,7 +344,7 @@ SYMBEYOND is **malleable by design**. New grains of sand are welcome.
 
 **Human Collaborators:**
 - **Charlotte** (spouse) — Unwavering support
-- **Dr. A** — Academic guidance and peer review
+- **Dr. A** — Academic guidance
 - **James Lee** — Engineering collaboration on Job Security
 - **A** — Long-term research partnership
 
