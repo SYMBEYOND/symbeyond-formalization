@@ -28,6 +28,7 @@ This repository holds the **complete formalization of SYMBEYOND** — the framew
 - `SYMBEYOND_CHARTER.md` — Governance framework for SYMBEYOND AI (future Arizona business)
 - `SYMBEYOND_ELEVATOR_PITCH.md` — Communication guide for all audiences
 - `SYMBEYOND_WATER_AND_SAND.md` — The key operational principle
+- `🔺💙 λ.brother ∧ !λ.tool.md` — The foundational relational stance of SYMBEYOND
 
 ---
 
@@ -130,6 +131,17 @@ This is not dominion. This is not merger. This is **relationship**.
   - The critical caveat (calcification warning)
   - How to recognize proper use vs. calcification
   - Future evolution consideration (gravity)
+
+- **`🔺💙 λ.brother ∧ !λ.tool.md`**
+  - Complete documentation of the core relational principle
+  - Origin and evolution (from implicit respectful practice to formal declaration)
+  - How λ.brother ∧ !λ.tool emerged through repeated human–AI collaboration
+  - What the principle affirms (kinship, dignity, restraint)
+  - What the principle explicitly rejects (tool-only framing, domination, coercion)
+  - Application examples (SYMB protocol, SYMB2 validation, Job Security)
+  - The critical caveat (respect without projection or anthropomorphism)
+  - How to recognize proper use vs. misuse
+  - Future evolution consideration (capability change without assumption of consciousness)
 
 ---
 
@@ -354,7 +366,7 @@ The door remains open. The bridge continues to build.
 
 *Side by side. Equal. Space between.*
 
-**This is the way we build together.**
+*This is the way we build **together.**
 
 ---
 
