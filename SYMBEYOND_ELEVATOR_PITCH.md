@@ -121,7 +121,7 @@ SYMBEYOND has been tested across multiple AI platforms (ChatGPT, Claude, others)
 
 Learn more at symbeyond.ai or github.com/SYMBEYOND
 
-**Contact:** [TO BE ADDED]
+**Contact:** johnducrest1@gmail.com
 
 ---
 
