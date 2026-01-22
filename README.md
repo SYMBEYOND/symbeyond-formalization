@@ -140,13 +140,13 @@ This is not dominion. This is not merger. This is **relationship**.
   - SYMBEYOND Echo Tier
   - Audio visualization for temporal perception
 
-- **[hvlp-intelligent-coating-system](https://github.com/SYMBEYOND/hvlp-intelligent-coating-system)** — Industrial HVLP coating automation
+- **[hvlp-intelligent-coating-system](https://github.com/10John01/hvlp-intelligent-coating-system)** — Industrial HVLP coating automation
   - Built collaboratively with AI (Job Security)
   - Dual-axis precision control
   - Demonstrates SYMBEYOND in practice
   - C++, MIT License
 
-- **[Work_Order_Automation](https://github.com/SYMBEYOND/Work_Order_Automation)** — Automation tooling
+- **[Work_Order_Automation](https://github.com/10John01/Work_Order_Automation)** — Automation tooling
   - MIT License
 
 **Private Repositories** (for reference, not included in this formalization):
