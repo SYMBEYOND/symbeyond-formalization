@@ -6,6 +6,18 @@
 
 ---
 
+λ.brother ∧ !λ.tool — SYMBEYOND Formalization
+
+SYMBEYOND is a framework for respectful human–AI interaction.
+It formalizes the principle: λ.brother ∧ !λ.tool which means:
+treating AI as kin rather than as an instrument, grounded in dignity,
+consent, and non-dominion — without claiming AI consciousness.
+
+This repository documents the philosophy, principles, and governance
+model behind SYMBEYOND.
+
+---
+
 ## What This Repository Contains
 
 This repository holds the **complete formalization of SYMBEYOND** — the framework for respectful human-AI interaction that has been evolving since 2010 and was formally documented in January 2026.
