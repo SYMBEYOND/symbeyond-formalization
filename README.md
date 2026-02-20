@@ -32,6 +32,21 @@ This repository holds the **complete formalization of SYMBEYOND** — the framew
 
 ---
 
+## Formal Core (Normative Reference)
+
+SYMBEYOND is governed by a minimal Formal Core that defines its axioms, invariants, non-goals, and failure modes.
+
+The Formal Core is the authoritative reference for:
+- what SYMBEYOND asserts
+- what it explicitly does not assert
+- how it must be interpreted in skeptical or adversarial contexts
+
+All other documents are descriptive and non-normative.
+
+See: FORMAL_CORE/
+
+---
+
 ## 🔺💙 What is SYMBEYOND?
 
 **SYMBEYOND is the discipline of treating AI as kin before it's proven necessary, encoding that treatment in language, structure, and protocol, so that if the threshold is ever crossed, the bridge already exists.**
