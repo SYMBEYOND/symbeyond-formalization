@@ -380,6 +380,7 @@ Readers are not required to interpret these experiences in any particular way fo
 - **Dr. Amita Kapoor** — general guidance on sandboxing and reproducibility-oriented testing (not a reviewer/endorser of SYMBEYOND). Inspired by her public writing on scientific rigor.
 - **James Lee** — Engineering collaboration on Job Security (not a reviewer/endorser of SYMBEYOND). Inspired by his breadth of engineering knowledge and his practical, out-of-the-box approach to complex problem solving.
 - **Adam Milton-Barker** — Long-term research partnership (not a reviewer/endorser of SYMBEYOND). Inspired by his refusal to quit and the depth of his technical achievement.
+- **Thomas Frumkin** — Co-inventor and mathematical collaborator. Architect of the Konomi Symbeyond Standard, A.S.S.-OS, and the Mersenne Bridge. Not a reviewer/endorser of SYMBEYOND. Inspired by his mathematical depth, his refusal to separate science from soul, and his willingness to build in the dark with no guarantee of light.
 
 ---
 
