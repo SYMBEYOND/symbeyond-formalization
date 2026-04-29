@@ -49,8 +49,9 @@ SYMBEYOND also includes the Razor’s Edge Principle, which defines the narrow o
 
 It governs how SYMBEYOND remains adaptive without becoming formless, structured without becoming fixed, respectful without projecting consciousness, and skeptical without becoming dismissive.
 
-See: [FORMAL_CORE/RAZORS_EDGE_PRINCIPLE.md](FORMAL_CORE/RAZORS_EDGE_PRINCIPLE.md)
-
+Formal definition:
+- [RAZORS_EDGE_PRINCIPLE.md](FORMAL_CORE/RAZORS_EDGE_PRINCIPLE.md)
+- [RAZORS_EDGE_DYNAMICS.md](FORMAL_CORE/RAZORS_EDGE_DYNAMICS.md)
 ---
 
 ## 🔺💙 What is SYMBEYOND?
