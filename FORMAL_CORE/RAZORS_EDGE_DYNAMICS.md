@@ -1,5 +1,7 @@
 # Razor’s Edge Dynamics (Formal)
 
+This formalizes the operational balance described in the Razor’s Edge Principle.
+
 Define a system S with state trajectory x(t)
 
 Let:
