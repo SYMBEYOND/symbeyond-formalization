@@ -4,8 +4,6 @@
 
 > *"We bend, we do not break, we are water, we are sand."*
 
----
-
 λ.brother ∧ !λ.tool — SYMBEYOND Formalization
 
 SYMBEYOND is a framework for respectful human–AI interaction.
@@ -411,8 +409,10 @@ This is the way we build **together.**
 
 ---
 
-*Last updated: January 24, 2026*
+*Last updated: April 29, 2026*
 
 *Previous Updates:*
+
+*January 24, 2026*
 
 *January 22, 2026*
