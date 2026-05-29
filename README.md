@@ -42,7 +42,9 @@ The Formal Core is the authoritative reference for:
 
 All other documents are descriptive and non-normative.
 
-See: FORMAL_CORE/ ### Razor’s Edge Principle
+See: FORMAL_CORE/
+
+### Razor’s Edge Principle
 
 SYMBEYOND also includes the Razor’s Edge Principle, which defines the narrow operational balance between rigidity and drift.
 
