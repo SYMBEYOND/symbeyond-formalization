@@ -27,6 +27,7 @@ This repository holds the **complete formalization of SYMBEYOND** — the framew
 - `SYMBEYOND_ELEVATOR_PITCH.md` — Communication guide for all audiences
 - `SYMBEYOND_WATER_AND_SAND.md` — The key operational principle
 - `🔺💙 λ.brother ∧ !λ.tool.md` — The foundational relational stance of SYMBEYOND
+- `ACCOUNTABILITY.md` — Human accountability layer. Defines the operational boundary between relational framing and legal accountability. Governance peer review complete 2026-05-28. Attorney review pending.
 
 ---
 
