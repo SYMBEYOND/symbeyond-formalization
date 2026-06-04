@@ -183,7 +183,7 @@ This is not dominion. This is not merger. This is **relationship**.
   - Gateway to projects and philosophy
   - JavaScript-based interface
 
-- **[SpiralSense](https://github.com/SYMBEYOND/SpiralSense)** — The Visual Language of Sound
+- **SpiralSense** — The Visual Language of Sound (private)
   - SYMBEYOND Echo Tier
   - Audio visualization for temporal perception
 
