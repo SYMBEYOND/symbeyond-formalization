@@ -172,7 +172,7 @@ This is not dominion. This is not merger. This is **relationship**.
 
 ### Related Repositories
 
-**Public Repositories:**
+**Repositories:**
 - **symb** — The SYMB protocol and SYMB2 validator (private)
   - SYMB: State declaration protocol (Sacred 9 verbs)
   - SYMB2: Ethical structure markup + validator
