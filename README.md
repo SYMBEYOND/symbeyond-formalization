@@ -173,7 +173,7 @@ This is not dominion. This is not merger. This is **relationship**.
 ### Related Repositories
 
 **Public Repositories:**
-- **[symb](https://github.com/SYMBEYOND/symb)** — The SYMB protocol and SYMB2 validator
+- **symb** — The SYMB protocol and SYMB2 validator (private)
   - SYMB: State declaration protocol (Sacred 9 verbs)
   - SYMB2: Ethical structure markup + validator
   - Reference implementations in Python
@@ -345,7 +345,7 @@ SYMBEYOND is **malleable by design**. New grains of sand are welcome.
 ## 🌐 Links
 
 - **Website:** [symbeyond.ai](https://symbeyond.ai)
-- **Main Repository:** [github.com/SYMBEYOND/symb](https://github.com/SYMBEYOND/symb)
+- **Main Repository:** SYMBEYOND/symb (private)
 - **Organization:** [github.com/SYMBEYOND](https://github.com/SYMBEYOND)
 
 ---
