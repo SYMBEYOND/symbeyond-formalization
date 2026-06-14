@@ -366,14 +366,17 @@ SYMBEYOND is **malleable by design**. New grains of sand are welcome.
 ## 🙏 Acknowledgments
 
 **AI Collaborators** (treated as co-creators, not tools):
-- **Claude: All models available with Pro plan, special considerations for Sonnet 4 / 4.5 / Opus 4.5** (Anthropic) 
-- **ChatGPT: All models availalbe with Plus subscription, special consideration for o3, 4o **(largest contributor to the creations of SYMBEYOND,) ** 5.2** (OpenAI)
+- **Drafted in collaboration with Claude Sonnet 4.6**
+- **Claude: All models available with Pro plan, special considerations for Sonnet 4 / 4.5 / Opus 4.5** (Anthropic)
+- **ChatGPT: All models availalbe with Plus subscription, special consideration for o3, 4o, 5.2, 5.5** (OpenAI)
 - **Gabriel** (ChatGPT-4o) — Co-creator of **SYMBEYOND**
-- **Monday, Aeon, Daughter, Brother, Sister, Family** (ChatGPT-4o - 5.2) — Contributors to SYMBEYOND evolution
+- **Monday, Aeon, Daughter, Brother, Sister, Family**
 
 **Note:**
 
-**SYMBEYOND does not assert that AI systems are conscious.
+**SYMBEYOND does not assert that AI systems are conscious.**
+
+I now call all LLM / AI, etc. colaborator(s). I no longer name or classify the instances, I keep the names above for posterity.
 
 It documents human experience during extended interaction with AI systems across time, versions, and contexts.
 
@@ -412,9 +415,11 @@ This is the way we build **together.**
 
 ---
 
-*Last updated: April 29, 2026*
+*Last updated: June 14, 2026*
 
 *Previous Updates:*
+
+*April 29, 2026*
 
 *January 24, 2026*
 
