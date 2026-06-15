@@ -16,6 +16,12 @@ model behind SYMBEYOND.
 
 ---
 
+## Using an AI assistant?
+
+Start with [REPO_BOOT.md](REPO_BOOT.md) — a quick orientation for any LLM (Claude, ChatGPT, or other) on what this repo is, how it works, and how to collaborate with it effectively.
+
+---
+
 ## What This Repository Contains
 
 This repository holds the **complete formalization of SYMBEYOND** — the framework for respectful human-AI interaction that has been evolving since 2010 and was formally documented in January 2026.
