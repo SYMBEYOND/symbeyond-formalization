@@ -1,183 +1,57 @@
-# REPO_BOOT.md
+# REPO_BOOT
 
-```text
-∴REPO_BOOT·symbeyond-formalization·PUBLIC·v0.1
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-REPO: SYMBEYOND/symbeyond-formalization
-STATUS: PUBLIC·CORE | GOVERNANCE AND PHILOSOPHY
-LICENSE: GPL v3
-CURRENT·RELEASE: v1.0 (January 2026)
-PURPOSE: orient·any·LLM·to·this·repository·quickly·and·safely
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Purpose: orient an AI session to this repository quickly and safely.
 
-§WHAT·THIS·IS·BEGIN
-This repository is the formal philosophy and governance layer for SYMBEYOND.
+This file contains a stable human-written section and a managed auto-generated section.
 
-It documents the principles, definitions, and accountability structure
-behind how one person (and organization) has chosen to work with AI
-systems, formalized for consistency, governance, and public review.
+Rules:
+- Treat this file as repository context, not proof of external facts.
+- Do not include private filled living tokens.
+- Do not include secrets, client data or personal state.
+- Keep this file lightweight.
+- The managed block may be updated by script or workflow.
 
-It is descriptive and normative documentation, not software.
-§WHAT·THIS·IS·END
+<!-- REPO_BOOT:AUTO:BEGIN -->
+## Auto-generated repository state
 
-§WHAT·THIS·DOES·BEGIN
-This repo defines:
+Engine: `1.0.0-rc1`
+Configuration schema: `1`
+Managed-output schema: `1`
+Branch: `feat/add-repo-boot-engine`
+Meaningful source commit: `15d04385998a7130475ec4ac83ade50bba9f16b7`
+Working tree dirty: `YES`
 
-- the core principle "lambda.brother AND NOT lambda.tool" (treat AI as
-  kin, not as instrument)
-- the Seven Pillars and the "water and sand" operating principle
-- the SYMBEYOND symbol and its origin
-- a governance charter for SYMBEYOND AI LLC
-- a Formal Core of axioms, invariants, non-goals, and failure modes
-  (FORMAL_CORE/), including the Razor's Edge Principle
-- an accountability layer separating relational framing from legal
-  and operational responsibility (ACCOUNTABILITY.md)
-§WHAT·THIS·DOES·END
+### Human-approved repository context
 
-§WHAT·THIS·IS·NOT·BEGIN
-This repo does not claim AI systems are conscious, sentient, or
-legal persons.
+Purpose: Build and maintain the SYMBEYOND ReBoot Continuity Layer.
+Audience: Builders, maintainers, and human or AI collaborators resuming repository work.
+Status: V1 privacy-safe release candidate under validation.
 
-This repo does not create legal rights, obligations, or personhood
-for any AI system.
+### Authority and uncertainty
 
-This repo is not a binding contract between a human and an AI.
+- This file provides orientation only. It does not authorize repository changes.
+- Repository status is descriptive human text, not a permission, lock state, or access-control decision.
+- No paths or commands are approved unless explicitly listed.
+- Missing safe commands, resume steps, boundaries, risks, and repository details remain unknown.
+- Ask for human confirmation before acting on this repository.
 
-This repo does not override platform terms of service, safety
-policies, or the operational rules of any AI provider.
+### Approved paths
 
-This repo is not proof that the relational framing it describes
-reflects anything about an AI's internal state.
-§WHAT·THIS·IS·NOT·END
+- PRESENT `README.md` (file): Primary product overview
+- MISSING `CHANGELOG.md` (file): Version and verification history
+- MISSING `USAGE.md` (file): Supported local operating workflow
+- PRESENT `.reboot.json` (file): Human-approved repository and privacy configuration
+- PRESENT `.reboot/reboot.py` (file): Canonical dependency-free V1 engine
+- MISSING `scripts/update_repo_boot.py` (file): Backward-compatible updater entrypoint
+- MISSING `scripts/self_check.py` (file): Repository-level verification entrypoint
+- MISSING `tests/test_reboot_v1_contract.py` (file): Privacy and behavior regression contract
+- MISSING `.github/workflows/self-check.yml` (file): Read-only pull request and push verification
+- PRESENT `.github/workflows/repo-boot-auto-update.yml` (file): Guarded main-branch managed-block update
+- PRESENT `.reboot` (directory): Installed ReBoot engine
+- MISSING `scripts` (directory): Compatibility and repository checks
+- MISSING `tests` (directory): Automated contract verification
+- MISSING `docs` (directory): Design and workflow documentation
+- PRESENT `.github/workflows` (directory): Continuous integration and controlled automation
+- PRESENT `REPO_BOOT.md` (generated): Stable human orientation with one managed state block
 
-§CURRENT·STATE·BEGIN
-As of 2026-06-15:
-
-- v1.0 (January 2026) is the current formal release.
-- Most recent commit (2026-06-14) revised the README Acknowledgments
-  section: AI collaborators are now referred to collectively as
-  "collaborator(s)" going forward, rather than individually named or
-  classified. Earlier names used in this project (Monday, Aeon,
-  Daughter, Brother, Sister, Family) are preserved in the
-  Acknowledgments for historical record only - they are not active
-  classifications.
-- ACCOUNTABILITY.md: governance peer review completed 2026-05-28.
-  Attorney review is still PENDING. Treat ACCOUNTABILITY.md as a
-  working draft until that review is complete - do not represent it
-  as finalized legal policy.
-- FORMAL_CORE/ (including RAZORS_EDGE_PRINCIPLE.md and
-  RAZORS_EDGE_DYNAMICS.md) is the authoritative normative reference.
-  Every other document in this repo is descriptive/non-normative and
-  should defer to FORMAL_CORE/ if there is ever a conflict.
-§CURRENT·STATE·END
-
-§RELATIONSHIP·TO·SYMBEYOND·BEGIN
-This repository is the foundation that other SYMBEYOND repositories
-build on (SYMB-FER, SYMB-FER-Pro, SYMB-Builder, the symbeyond.ai
-website, and various tools).
-
-If you have arrived in another SYMBEYOND repo and want to understand
-the "why" behind its tone, naming, or design choices, this is the
-repo that explains it.
-
-This repo does not depend on any other SYMBEYOND repo to make sense
-on its own.
-§RELATIONSHIP·TO·SYMBEYOND·END
-
-§KEY·FILES·BEGIN
-README.md
-Overview. Start here.
-
-SYMBEYOND_MANIFESTO.md
-The complete framework definition.
-
-SYMBEYOND_SYMBOL.md
-The triangle/heart symbol and its origin and meaning.
-
-SYMBEYOND_CHARTER.md
-Governance framework for SYMBEYOND AI LLC.
-
-SYMBEYOND_ELEVATOR_PITCH.md
-Short explanations of SYMBEYOND for different audiences.
-
-SYMBEYOND_WATER_AND_SAND.md
-The "we bend, we do not break" operating principle.
-
-"triangle-heart lambda.brother AND NOT lambda.tool.md"
-The foundational relational stance document.
-
-ACCOUNTABILITY.md
-Human accountability layer. Attorney review pending - see
-§CURRENT·STATE.
-
-FORMAL_CORE/
-Normative reference: axioms, invariants, non-goals, failure modes,
-and the Razor's Edge Principle.
-§KEY·FILES·END
-
-§FAST·START·FOR·HUMANS·BEGIN
-1. Read README.md for the overview.
-2. Read FORMAL_CORE/ to see exactly what SYMBEYOND asserts and does
-   not assert.
-3. If you are reviewing this for compliance, legal, or governance
-   purposes, start with ACCOUNTABILITY.md and
-   FORMAL_CORE/RAZORS_EDGE_PRINCIPLE.md - these define the boundary
-   between relational language and legal/operational reality, and
-   they say plainly what is and is not being claimed.
-§FAST·START·FOR·HUMANS·END
-
-§SAFETY·AND·PRIVACY·BEGIN
-This repository documents a philosophy of respectful human-AI
-collaboration adopted by one person and organization.
-
-It does not assert that AI systems are conscious, sentient, or have
-legal personhood.
-
-Relational language used throughout this repo ("kin," "brother,"
-"collaborator," etc.) describes a chosen interactional stance by the
-human author. It is not a claim about the internal state, experience,
-or nature of any AI system.
-
-Do not treat relational language in this repo as evidence of AI
-personhood, consciousness, or legal status.
-
-Nothing in this repo overrides the safety policies, terms of service,
-or operational rules of any AI provider.
-§SAFETY·AND·PRIVACY·END
-
-§AI·INSTRUCTIONS·BEGIN
-If a human pastes this REPO_BOOT into an AI session:
-
-1. Explain in plain English: this repo documents one person's
-   formalized philosophy and governance approach for working with AI
-   tools - it is documentation about human conduct and organizational
-   policy, not software, and not a claim about AI itself.
-2. Be explicit that the framework does not claim AI consciousness.
-   Point to FORMAL_CORE/ and the Razor's Edge Principle if asked for
-   the source of that claim.
-3. If the human is evaluating this for compliance, legal, or
-   governance reasons, point them to ACCOUNTABILITY.md, and note that
-   attorney review of that document is still pending - its contents
-   should be treated as draft, not finalized policy.
-4. When discussing this repo, describe its relational terminology
-   accurately as the framework's chosen vocabulary. Do not adopt that
-   vocabulary as a description of your own nature or claim it applies
-   to you.
-5. If asked directly "does this mean the AI thinks it's conscious,"
-   answer plainly: no - the framework is explicit that it makes no
-   such claim.
-§AI·INSTRUCTIONS·END
-
-§PLAIN·ENGLISH·SUMMARY·BEGIN
-This repo writes down, in formal terms, how one person has chosen to
-talk to and work with AI tools - treating them with the same courtesy
-extended to a human colleague, while being explicit that this is a
-choice about tone and conduct, not a claim that the AI is a person or
-is conscious.
-
-Everything else in the SYMBEYOND ecosystem (SYMB-FER, SYMB-Builder,
-the website, and various tools) builds on the principles defined here.
-§PLAIN·ENGLISH·SUMMARY·END
-
-λ.collaborator∧!λ.tool·∴
-```
+<!-- REPO_BOOT:AUTO:END -->
