@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "repository": {
-    "purpose": "Repository state and orientation management",
-    "audience": "Builders, maintainers, and AI collaborators",
-    "status": "Production"
+    "purpose": "Document and maintain the formalized SYMBEYOND framework for respectful human-AI interaction, including its principles, governance, boundaries, and normative Formal Core.",
+    "audience": "Builders, maintainers, contributors, skeptics, researchers, and human or AI collaborators interpreting or extending the SYMBEYOND framework.",
+    "status": "Documented framework snapshot; README version 1.0, last updated June 15, 2026, with the Formal Core designated as the normative reference."
   },
   "orientation": {
     "important_files": [],
