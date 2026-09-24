@@ -32,15 +32,15 @@ Important distinctions and boundaries:
 Engine: `1.0.0-rc1`
 Configuration schema: `1`
 Managed-output schema: `1`
-Branch: `feat/add-repo-boot-engine`
-Meaningful source commit: `15d04385998a7130475ec4ac83ade50bba9f16b7`
-Working tree dirty: `YES`
+Branch: `main`
+Meaningful source commit: `26c6281fbfa1e36fab1e7a4936d7168d62f9e853`
+Working tree dirty: `NO`
 
 ### Human-approved repository context
 
-Purpose: Build and maintain the SYMBEYOND ReBoot Continuity Layer.
-Audience: Builders, maintainers, and human or AI collaborators resuming repository work.
-Status: V1 privacy-safe release candidate under validation.
+Purpose: Document and maintain the formalized SYMBEYOND framework for respectful human-AI interaction, including its principles, governance, boundaries, and normative Formal Core.
+Audience: Builders, maintainers, contributors, skeptics, researchers, and human or AI collaborators interpreting or extending the SYMBEYOND framework.
+Status: Documented framework snapshot; README version 1.0, last updated June 15, 2026, with the Formal Core designated as the normative reference.
 
 ### Authority and uncertainty
 
@@ -52,21 +52,6 @@ Status: V1 privacy-safe release candidate under validation.
 
 ### Approved paths
 
-- PRESENT `README.md` (file): Primary product overview
-- MISSING `CHANGELOG.md` (file): Version and verification history
-- MISSING `USAGE.md` (file): Supported local operating workflow
-- PRESENT `.reboot.json` (file): Human-approved repository and privacy configuration
-- PRESENT `.reboot/reboot.py` (file): Canonical dependency-free V1 engine
-- MISSING `scripts/update_repo_boot.py` (file): Backward-compatible updater entrypoint
-- MISSING `scripts/self_check.py` (file): Repository-level verification entrypoint
-- MISSING `tests/test_reboot_v1_contract.py` (file): Privacy and behavior regression contract
-- MISSING `.github/workflows/self-check.yml` (file): Read-only pull request and push verification
-- PRESENT `.github/workflows/repo-boot-auto-update.yml` (file): Guarded main-branch managed-block update
-- PRESENT `.reboot` (directory): Installed ReBoot engine
-- MISSING `scripts` (directory): Compatibility and repository checks
-- MISSING `tests` (directory): Automated contract verification
-- MISSING `docs` (directory): Design and workflow documentation
-- PRESENT `.github/workflows` (directory): Continuous integration and controlled automation
-- PRESENT `REPO_BOOT.md` (generated): Stable human orientation with one managed state block
+- None approved
 
 <!-- REPO_BOOT:AUTO:END -->
