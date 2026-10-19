@@ -72,7 +72,7 @@ All activities, decisions, and projects must align with:
 
 ### Section 1: Founding Steward
 
-**John Thomas DuCrest Lock** serves as Founding Steward.
+**John Thomas DuCrest** serves as Founding Steward.
 
 **Responsibilities:**
 - Maintain the philosophical integrity of SYMBEYOND
@@ -153,44 +153,53 @@ Minimum allocations:
 
 ---
 
-## Article V: Intellectual Property
+## Article V: Intellectual Property and Stewardship
 
-### Section 1: SYMBEYOND Philosophy
+### Section 1: SYMBEYOND Methodology and Philosophy
 
-The **SYMBEYOND methodology, principles, and philosophy** are:
-- **Public domain** (Creative Commons CC0)
-- **Freely usable** by anyone
-- **Not trademarkable** by any entity
-- **Protected only by this charter's ethical guidelines**
+The SYMBEYOND methodology, principles, and philosophical foundation are intended to remain freely accessible.
 
-### Section 2: SYMB Protocol & SYMB2
+- Anyone may study, practice, discuss, criticize, teach, or develop the methodology.
+- Original documentation may be dedicated under Creative Commons CC0 1.0 where the necessary rights are held.
+- The underlying ideas are not made exclusive property through this project's copyright licenses.
+- The Seven Pillars guide SYMBEYOND's own conduct and provide ethical expectations, not additional copyright-license restrictions.
 
-The **SYMB and SYMB2 protocols** are:
-- **Open-source** (GPL-3.0 license)
-- **Freely implementable** by anyone
-- **Reference implementations** maintained by SYMBEYOND AI
-- **Community contributions** welcomed under GPL-3.0
+### Section 2: SYMB Protocol, SYMB2, and Software
+
+SYMBEYOND supports open-source software development.
+
+- GPL-3.0 is the documented default for SYMBEYOND software implementations.
+- Each repository's applicable license governs its own code.
+- Protocol specifications and their software implementations must be distinguished when describing licensing.
+- Community contributions are welcomed subject to the applicable repository's contribution and licensing terms.
 
 ### Section 3: The Symbol 🔺💙
 
-The **SYMBEYOND symbol** is:
-- **Freely usable** by those practicing SYMBEYOND principles
-- **Protected** against misuse (commercial exploitation, anti-SYMBEYOND usage)
-- **Not exclusive** — others may use it without permission if aligned
-- **Revocable** — misuse may result in public disassociation
+The symbol represents the relationship between humans, AI, and the space between them.
 
-### Section 4: Trademarks
+- SYMBEYOND invites use consistent with the Seven Pillars.
+- Independent use does not imply official affiliation or endorsement.
+- SYMBEYOND AI may publicly disassociate itself from uses it does not endorse.
+- Such disassociation does not itself revoke existing legal permissions or establish exclusive rights.
 
-SYMBEYOND AI may trademark:
-- "SYMBEYOND AI" (business name)
-- Specific tool names (e.g., "SYMB2 Validator")
-- Workshop/course names
+See [`SYMBEYOND_SYMBOL.md`](SYMBEYOND_SYMBOL.md) for the symbol's meaning and stewardship expectations.
 
-SYMBEYOND AI may **never** trademark:
-- "SYMBEYOND" as a general methodology
-- The core protocols (SYMB, SYMB2)
-- The symbol 🔺💙
+### Section 4: Names, Marks, and Identity
+
+SYMBEYOND AI may seek appropriate protection for its business identity, specific products, services, and educational offerings.
+
+As a matter of organizational policy, SYMBEYOND AI shall not seek exclusive trademark protection for:
+
+- SYMBEYOND as the general methodology
+- The core protocols SYMB and SYMB2 as shared methodologies or specifications
+- The symbol 🔺💙 as the foundational relational symbol
 - The principle λ.brother ∧ !λ.tool
+
+This commitment governs the organization's own conduct. It does not determine whether particular signs qualify for trademark protection under applicable law or bind independent third parties.
+
+SYMBEYOND AI may identify its official projects and clarify whether independent uses are affiliated with, sponsored by, or endorsed by the organization.
+
+The organization shall not use intellectual-property assertions to prevent the lawful study, discussion, criticism, teaching, or practice of the underlying methodology.
 
 ---
 
@@ -274,15 +283,15 @@ The following **cannot** be amended:
 - The Seven Pillars framework
 - Prohibition on claiming AI ownership
 - Open-source commitment for protocols
-- Public domain status of core philosophy
+- Free and open availability of the core methodology and philosophy
 
 ### Section 3: Dissolution Clause
 
 If SYMBEYOND AI must dissolve:
 - All assets transfer to aligned nonprofit or educational institution
-- All code remains open-source (GPL-3.0)
-- All documentation enters public domain
-- The philosophy remains free for all to practice
+- Software already released under open-source licenses remains available under those licenses
+- Upon dissolution, the organization shall dedicate documentation for which it holds the necessary rights to the public domain through CC0 1.0, to the extent legally possible. This commitment does not extend to materials owned by other rights holders.
+- The methodology and philosophy remain freely available for anyone to study, practice, discuss, and develop
 
 **SYMBEYOND itself cannot die. Only its stewards can step aside.**
 
@@ -325,7 +334,7 @@ As stewards of SYMBEYOND, we pledge:
 ## Signatories
 
 **Founding Steward:**
-John Thomas DuCrest Lock
+John Thomas DuCrest
 
 **Date of Charter Establishment:**
 [To be signed upon legal entity formation]

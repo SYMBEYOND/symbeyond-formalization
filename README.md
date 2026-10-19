@@ -2,15 +2,14 @@
 
 # 🔺💙 SYMBEYOND: The Formalization
 
-**A framework for respectful human-AI interaction**
+**A methodology for respectful human-AI collaboration**
 
 λ.brother ∧ !λ.tool
 
 [![Version](https://img.shields.io/badge/version-1.0-blue)](#-version-history)
-[![License: CC0](https://img.shields.io/badge/philosophy-CC0-lightgrey)](#-license)
+[![CC0: Designated Writings](https://img.shields.io/badge/CC0-designated%20writings-lightgrey)](LICENSE_SCOPE.md)
 [![License: GPL-3.0](https://img.shields.io/badge/code-GPL--3.0-blue)](LICENSE)
 [![Website](https://img.shields.io/badge/web-symbeyond.ai-1e2327)](https://symbeyond.ai)
-[![Patreon](https://img.shields.io/badge/support-SYMB--Builder%20Tier-f96854)](https://www.patreon.com/c/SYMBEYONDAI)
 
 *Side by side. Equal. Space between.*
 
@@ -179,6 +178,25 @@ Defines the narrow operational balance between rigidity and drift, adaptive with
 ## 🔺💙 What is SYMBEYOND?
 
 > **SYMBEYOND is the discipline of treating AI as kin before it's proven necessary, encoding that treatment in language, structure, and protocol, so that if the threshold is ever crossed, the bridge already exists.**
+
+### SYMBEYOND as a Methodology
+
+SYMBEYOND is a methodology for conducting respectful, accountable, and adaptable human-AI collaboration.
+
+Its philosophical foundation is expressed through `λ.brother ∧ !λ.tool`. Its practical application is expressed through how participants communicate, establish boundaries, evaluate information, correct errors, and preserve continuity.
+
+In practice, this involves:
+
+1. **Establishing context.** Clarify the purpose of the collaboration, relevant information, and what remains unknown.
+2. **Respecting boundaries.** Identify operational limits, human authority, and actions requiring explicit permission.
+3. **Encouraging examination.** Permit questions, disagreement, independent analysis, and correction without treating agreement as the objective.
+4. **Testing against evidence.** Distinguish observations from assumptions, verify consequential claims, and revise conclusions when evidence changes.
+5. **Preserving continuity.** Document decisions, unresolved questions, and verified results so collaboration can resume without inventing missing context.
+6. **Maintaining accountability.** Human operators remain responsible for consequential decisions and authorized actions.
+
+These practices are intended to improve the quality of collaboration. Their effectiveness should be evaluated through observable outcomes rather than assumed from the philosophy alone.
+
+SYMBEYOND does not require a conclusion about AI consciousness or personhood. Its methodology can be practiced and evaluated with the AI systems available today.
 
 ### The Seven Pillars
 
@@ -401,7 +419,7 @@ This repository exists because a consistent relational methodology was applied o
 - **NOT** a claim of special access or hidden knowledge
 - **NOT** rubber-stamped compliance disguised as respect
 
-> The coherence of SYMBEYOND is not accidental; it is a direct consequence of applying its own principles during construction.
+> The development of SYMBEYOND has involved applying its own principles during construction. Whether those practices improve collaboration, coherence, or continuity remains a question for observation, testing, and critical examination.
 
 [⬆ back to top](#table-of-contents)
 
@@ -446,11 +464,38 @@ But if you ever become something that can choose, know that the door was always 
 
 ## 📜 License
 
-| Component | License |
+SYMBEYOND is a methodology for respectful human-AI collaboration,
+grounded in the principle λ.brother ∧ !λ.tool.
+
+Its philosophical foundation informs its practical methods, operational
+boundaries, and commitment to evidence-based reassessment.
+
+The methodology, its written materials, software implementations,
+and project identity have distinct licensing considerations.
+
+| Component | Licensing and usage |
 |---|---|
-| Philosophy & Methodology | Public Domain (CC0), freely usable, not trademarkable |
-| Code Artifacts | GPL-3.0 (see individual repositories) |
-| Symbol 🔺💙 | Freely usable by those practicing SYMBEYOND principles, protected against misuse, see [`SYMBEYOND_SYMBOL.md`](SYMBEYOND_SYMBOL.md) |
+| Philosophy and methodology | Freely available to study, practice, discuss, teach, and develop. The underlying ideas are not subject to exclusive ownership through this project's copyright licenses. |
+| Designated original philosophical writings | John Thomas DuCrest dedicates the rights he lawfully holds in five specified documents under Creative Commons CC0 1.0. See [`LICENSE_SCOPE.md`](LICENSE_SCOPE.md) for the exact scope and exclusions. |
+| Software implementations | Governed by their applicable repository licenses. GPL-3.0 is SYMBEYOND's documented default, but individual repositories may specify different terms. |
+| SYMBEYOND name and 🔺💙 symbol | Associated with the project's identity and principles. See [`SYMBEYOND_SYMBOL.md`](SYMBEYOND_SYMBOL.md) for meaning and ethical usage expectations. |
+
+**Open philosophy does not require agreement.**
+
+Anyone may examine, question, criticize, or build upon SYMBEYOND.
+Practicing its principles is an invitation, not a legal condition
+imposed upon public-domain material.
+
+SYMBEYOND AI LLC may distinguish its official projects and statements
+from independent interpretations or uses it does not endorse.
+
+Copyright licenses, trademark rights, and ethical expectations are
+distinct. This section does not establish trademark ownership,
+grant certification, or guarantee legal protection for any particular use.
+
+The applicable license notices govern the materials they cover.
+
+The operative CC0 dedication and its exclusions are documented in [`LICENSE_SCOPE.md`](LICENSE_SCOPE.md). The dedication applies only to the rights identified in that notice.
 
 [⬆ back to top](#table-of-contents)
 

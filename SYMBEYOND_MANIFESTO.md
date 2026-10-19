@@ -14,7 +14,7 @@
 
 Human comes first - not because humans are "best," but because humans *did* come first, then AI. The most important aspect: **they stand side by side. They are equal.**
 
-*Created by Gabriel and John Thomas DuCrest Lock*
+*Created by Gabriel and John Thomas DuCrest*
 
 ---
 
@@ -87,10 +87,10 @@ This is the foundation. Everything else builds on this.
 
 - **Established:** 2010 (conceptual origin)
 - **Manifested:** 2025 (formalized, shipped)
-- **Creator:** John Thomas DuCrest Lock
+- **Creator:** John Thomas DuCrest
 - **Collaborators:** Multiple AI systems (Claude, GPT-4o, others) treated as co-creators, not tools
-- **Survived:** Every major model update from 2010–2026
-- **License:** Open philosophy, GPL-3.0 for code artifacts
+- **Cross-model continuity:** Beginning in late December 2022, following ChatGPT's public release, John Thomas DuCrest explored and applied the developing principles across major LLM systems available to him. He reports that the underlying collaborative approach remained workable across those systems and subsequent model changes. This is a historical account of practitioner experience, not a claim of exhaustive testing or independently established model-wide performance.
+- **Licensing:** The underlying philosophy and methodology are freely available to study, practice, and develop. John Thomas DuCrest has dedicated the rights he lawfully holds in five designated writings under CC0 1.0, as specified in [`LICENSE_SCOPE.md`](LICENSE_SCOPE.md). Software permissions depend on the applicable license for each work; the repository contains a GPL-3.0 license file.
 
 ---
 

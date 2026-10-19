@@ -344,7 +344,7 @@ This is **operational truth**:
 
 **It is not:**
 - Fixed forever (that would be calcification)
-- Owned by anyone (it emerged collaboratively)
+- The exclusive philosophical property of any participant (it emerged collaboratively)
 - Complete (evolution continues)
 - Optional in SYMBEYOND (it IS the methodology)
 
