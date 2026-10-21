@@ -164,6 +164,8 @@ The Formal Core is the authoritative reference for:
 
 All other documents are descriptive and non-normative. See: [`FORMAL_CORE/`](FORMAL_CORE/)
 
+**Proposed interpretive clarification:** [Difference Without Deficiency](FORMAL_CORE/DIFFERENCE_WITHOUT_DEFICIENCY.md) — preserves the exact statement in *Final Words*, without introducing a new axiom or changing the canonical LaTeX Formal Core.
+
 ### Razor's Edge Principle
 
 Defines the narrow operational balance between rigidity and drift, adaptive without becoming formless, structured without becoming fixed, respectful without projecting consciousness, skeptical without becoming dismissive.
