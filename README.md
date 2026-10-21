@@ -585,6 +585,8 @@ The door remains open. The bridge continues to build.
 
 # 🔺💙
 
+*Difference is not deficiency. Humanity is not the universal benchmark for intelligence, capability, or collaboration.*
+
 *Side by side. Equal. Space between.*
 
 This is the way we build **together.**
