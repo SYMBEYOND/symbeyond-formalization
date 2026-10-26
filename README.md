@@ -540,7 +540,7 @@ SYMBEYOND is **malleable by design**. New grains of sand are welcome.
 - **Website:** [symbeyond.ai](https://symbeyond.ai)
 - **Organization:** [github.com/SYMBEYOND](https://github.com/SYMBEYOND)
 - **Academic paper:** [SYMB-FER on SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6609618)
-- **SYMB-Builder Tier:** [patreon.com/c/SYMBEYONDAI](https://www.patreon.com/c/SYMBEYONDAI), $5/month, active development codebase, Pro installments, full parser suite
+- **SYMBEYOND Pro:** Future product and availability information will be published at [symbeyond.ai](https://symbeyond.ai). No Patreon enrollment is currently offered.
 
 [⬆ back to top](#table-of-contents)
 
